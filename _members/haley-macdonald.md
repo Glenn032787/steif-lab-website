@@ -2,7 +2,7 @@
 name: Haley MacDonald
 image: images/photo.jpg
 description: Master's researcher
-role: masters
+role: master
 links:
   email: hmacdonald@bcgsc.ca
 ---
