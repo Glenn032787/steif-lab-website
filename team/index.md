@@ -45,9 +45,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   tooltip="Google Scholar"
   style="bare"
 %}
+
+{% include section.html %}
+
 ### {% include icon.html icon="fa-solid fa-users" %}Current Lab Members
 
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$|alum$)" %}
+
+{% include section.html %}
 
 ### {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumn
 
