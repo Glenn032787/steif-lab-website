@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="clonealign: statistical integration of independent single-cell RNA and DNA sequencing data from human cancers" style="rich" %}
 
 {% include section.html %}
 
