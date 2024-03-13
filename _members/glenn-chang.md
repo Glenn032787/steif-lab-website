@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Glenn Chang
 image: images/photo.jpg
-role: phd
-group: alum
+role: Research Programmer
+group: programmer
 links:
-  github: john-doe
+  github: glenn032787
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
