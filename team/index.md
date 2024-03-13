@@ -13,7 +13,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-### **Dr. Adi Steif**, Professor
+# **Dr. Adi Steif**, Professor
 {%
   include feature.html
   image="images/group-photo.jpg"
@@ -22,6 +22,29 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   Dr. Steif was previously a Junior Research Fellow at Trinity College, University of Cambridge and a member of the inaugural class of Schmidt Science Fellows. She completed her postdoctoral research at the Cancer Research UK Cambridge Institute and European Bioinformatics Institute with Dr. John Marioni. Prior to this, she obtained her Ph.D. at UBC and BC Cancer under the supervision of Dr. Sohrab Shah and Dr. Sam Aparicio."
 %}
 
+
+{%
+  include button.html
+  type="email"
+  link="asteif@bcgsc.ca"
+  text="asteif@bcgsc.ca"
+  tooltip="asteif@bcgsc.ca"
+  style="bare"
+%}
+{%
+  include button.html
+  type="phone"
+  text="604–707–5900"
+  style="bare"
+%}
+{%
+  include button.html
+  type="google-scholar"
+  link="https://scholar.google.com/citations?user=aCAx8r4AAAAJ"
+  text="Google Scholar"
+  tooltip="Google Scholar"
+  style="bare"
+%}
 ### {% include icon.html icon="fa-solid fa-users" %}Current Lab Members
 
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$|alum$)" %}

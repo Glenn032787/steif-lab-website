@@ -1,4 +1,13 @@
+- id: doi:10.1186/s13059-019-1645-z
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-019-1645-z/MediaObjects/13059_2019_1645_Fig1_HTML.png?as=webp
+  buttons:
+    - type: source
+      text: Code Availablility
+      link: https://doi.org/10.5281/zenodo.1892336
+    - type: data
+      text: Data Access
+      link: https://zenodo.org/records/2363826
 - id: doi:10.1038/nature13952
 - id: doi:10.1038/nmeth.4140
 - id: doi:10.1186/s13059-017-1169-3
-- id: doi:10.1186/s13059-019-1645-z
+
