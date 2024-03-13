@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Haley MacDonald
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Master's researcher
+role: masters
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: hmacdonald@bcgsc.ca
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
