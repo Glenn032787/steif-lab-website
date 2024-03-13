@@ -1,1 +1,1 @@
-Sitemap: /steif-lab-website/sitemap.xml
+Sitemap: /steiflab.github.io/sitemap.xml
