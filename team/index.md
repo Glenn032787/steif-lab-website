@@ -20,9 +20,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumn
 
-{%
-  include list.html
-  data="members"
-  filters="role: pi"
-  style="rich"
-%}
+{% include list.html data="members" component="portrait" filters="role: alum" %}
