@@ -1,8 +1,8 @@
 ---
 name: Glenn Chang
 image: images/photo.jpg
-role: Research Programmer
-group: programmer
+role: programmer
+group: Research Programmer
 links:
   github: glenn032787
 ---
