@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s13059-019-1645-z
+  title: 'clonealign: statistical integration of independent single-cell RNA and DNA
+    sequencing data from human cancers'
+  authors:
+  - Kieran R. Campbell
+  - Adi Steif
+  - Emma Laks
+  - Hans Zahn
+  - Daniel Lai
+  - Andrew McPherson
+  - Hossein Farahani
+  - Farhia Kabeer
+  - "Ciara O\u2019Flanagan"
+  - Justina Biele
+  - Jazmine Brimhall
+  - Beixi Wang
+  - Pascale Walters
+  - IMAXT Consortium
+  - "Alexandre Bouchard-C\xF4t\xE9"
+  - Samuel Aparicio
+  - Sohrab P. Shah
+  publisher: Genome Biology
+  date: '2019-03-12'
+  link: https://doi.org/ggr4f6
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-019-1645-z/MediaObjects/13059_2019_1645_Fig1_HTML.png?as=webp
+  buttons:
+  - type: source
+    text: Code Availablility
+    link: https://doi.org/10.5281/zenodo.1892336
+  - type: data
+    text: Data Access
+    link: https://zenodo.org/records/2363826
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/nature13952
   title: Dynamics of genomic clones in breast cancer patient xenografts at single-cell
     resolution
@@ -84,31 +118,5 @@
   publisher: Genome Biology
   date: '2017-03-01'
   link: https://doi.org/gtmsdc
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13059-019-1645-z
-  title: 'clonealign: statistical integration of independent single-cell RNA and DNA
-    sequencing data from human cancers'
-  authors:
-  - Kieran R. Campbell
-  - Adi Steif
-  - Emma Laks
-  - Hans Zahn
-  - Daniel Lai
-  - Andrew McPherson
-  - Hossein Farahani
-  - Farhia Kabeer
-  - "Ciara O\u2019Flanagan"
-  - Justina Biele
-  - Jazmine Brimhall
-  - Beixi Wang
-  - Pascale Walters
-  - IMAXT Consortium
-  - "Alexandre Bouchard-C\xF4t\xE9"
-  - Samuel Aparicio
-  - Sohrab P. Shah
-  publisher: Genome Biology
-  date: '2019-03-12'
-  link: https://doi.org/ggr4f6
   plugin: sources.py
   file: sources.yaml
