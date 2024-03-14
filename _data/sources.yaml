@@ -7,6 +7,11 @@
     - type: data
       text: Data Access
       link: https://zenodo.org/records/2363826
+  tags:
+    - Single-cell
+    - Gene expression
+    - Cancer clones
+    - Tool
 - id: doi:10.1038/nature13952
 - id: doi:10.1038/nmeth.4140
 - id: doi:10.1186/s13059-017-1169-3
