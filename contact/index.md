@@ -52,7 +52,7 @@ We are located at on the 8th floor of the BC Cancer Research Center.
 
 {% include section.html}
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Join Us
+# Join Us
 **Undergraduate students:** To discuss potential research projects or ideas, feel free to reach out to Titipat and arrange a brief meeting.
 
 **Graduate students:** Prospective students interested in pursuing a Masters or PhD program in Bioinformatics at University of British Columbia (UBC) or Simon Fraser University (SFU) can submit a CV along with a brief statement of their research interests before applying. Adi is also available for co-advising in various departments.
