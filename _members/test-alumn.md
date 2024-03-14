@@ -1,10 +1,11 @@
 ---
 name: Tim Smith
 image: images/photo.jpg
-role: alumn
+role: alumni
 aliases:
   - T. Smith
   - Tom
+status: alumni
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

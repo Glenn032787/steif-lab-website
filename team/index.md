@@ -47,8 +47,13 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 ### {% include icon.html icon="fa-solid fa-users" %}Current Lab Members
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|alum$)" %}
+{% include list.html data="members" component="portrait" filters="role: programmer" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: master" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
 
 ### {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumn
 
-{% include list.html data="members" component="portrait" filters="role: alum" %}
+{% include list.html data="members" component="portrait" filters="role: alumni" %}

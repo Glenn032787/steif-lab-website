@@ -5,6 +5,7 @@ role: programmer
 group: Research Programmer
 links:
   github: glenn032787
+status: active
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
