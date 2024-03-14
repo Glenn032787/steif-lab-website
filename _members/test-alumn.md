@@ -1,7 +1,7 @@
 ---
 name: Tim Smith
 image: images/photo.jpg
-role: alumni
+role: alum
 aliases:
   - T. Smith
   - Tom
