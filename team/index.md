@@ -45,6 +45,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   tooltip="Google Scholar"
   style="bare"
 %}
+
+{% include section.html %}
+
 ### {% include icon.html icon="fa-solid fa-users" %}Current Lab Members
 
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
@@ -54,6 +57,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 
+{% include section.html %}
 ### {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumni 
+
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
