@@ -54,6 +54,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 
-### {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumn
-
+### {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumni 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
+
