@@ -1,7 +1,8 @@
 ---
 name: Tim Smith
 image: images/photo.jpg
-role: alum
+role: alumni
+description: Former Co-op student
 aliases:
   - T. Smith
   - Tom
