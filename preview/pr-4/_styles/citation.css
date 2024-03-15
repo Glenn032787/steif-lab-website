@@ -93,5 +93,24 @@
     height: 180px;
   }
 }
+.citation-details {
+  color: var(--secondary);
+  font-weight: 700;
+  font-style: italic;
+}
+
+.citation-title {
+  font-weight: 700;
+  font-size: 22px;
+  text-decoration: none;
+}
+.citation-title:hover {
+  color: var(--secondary);
+}
+
+.citation-authors {
+  font-size: 16px;
+  color: #666;
+}
 
 /*# sourceMappingURL=citation.css.map */
