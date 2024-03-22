@@ -5,7 +5,7 @@ role: programmer
 group: Research Programmer
 links:
   github: glenn032787
-  linkdin: glenn-chang-a26ab3197
+  linkedin: glenn-chang-a26ab3197
   orcid: 0000-0003-4008-1725
   email: glchang@bcgsc.ca
 status: active
