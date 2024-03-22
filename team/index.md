@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Meet our team!
 
-Meet our diverse interdisplinary team of biological, computational and mathematical researchers. The team includes undergraduates, master students and staff members. Click [here]({% link contact/index.html %}) if you would join our team.
+Meet our diverse interdisplinary team of biological, computational and mathematical researchers. The team includes undergraduates, master students and staff members. Click [here]({% link contact %}) if you would join our team.
 
 {% include section.html %}
 
