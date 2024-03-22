@@ -1,16 +1,15 @@
 # site properties and page defaults
 title: Steif Lab 
-subtitle: Developing and applying computational methods for single cell technology
-description: Dr. Adi Steif's research concentrates on utilizing computational methods to analyze high-throughput genomics data, primarily within cancer research, to understand disease mechanisms and evolution. By leveraging new measurement technologies, particularly at the single-cell level, and employing statistical machine learning techniques, the Steif Lab collaborates with experimentalists to extract biological insights from complex datasets, overcoming challenges such as noise and measurement bias.
+subtitle: University of British Columbia
+description: TBD
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: steif@bcgsc.ca
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0001-8264-5686
+  google-scholar: aCAx8r4AAAAJ
 
 
 ### jekyll settings

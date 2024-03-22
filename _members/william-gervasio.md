@@ -2,7 +2,7 @@
 name: William Gervasio
 image: images/photo.jpg
 role: undergrad
-description: Co-Op Student
+description: Directed studies student
 aliases:
   - W. Gervasio
   - wgervasio

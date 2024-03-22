@@ -11,17 +11,16 @@ nav:
 
 {% capture col1 %}
 ## Location
-We are part of the BC Cancer in Vancouver Canada. The lab is located on the 8th floor of the [BC Cancer Research Center building](https://www.google.com/maps/place/BC+Cancer+Research+Centre/@49.2625745,-123.1193424,15z/data=!4m2!3m1!1s0x0:0x8120a7e52adbc3f2?sa=X&ved=1t:2428&hl=en&ictx=111). Card access is required for entry to lab spaces.
+We are based at the [BC Cancer Research Center](https://www.google.com/maps/place/BC+Cancer+Research+Centre/@49.2625745,-123.1193424,15z/data=!4m2!3m1!1s0x0:0x8120a7e52adbc3f2?sa=X&ved=1t:2428&hl=en&ictx=111) in Vancouver, Canada. Our lab is situated on the 8th floor of the building, and access is restricted to those with card access.
 
 ## Join Us
-We are a fully computational lab, if you are interested to join the lab, collaborate, or inquire, please do not hesitate to contact Adi. 
+Our lab primarily focuses on computational research. If you're interested in joining, collaborating, or seeking further information, please feel free to reach out to Adi.
 
-**Undergraduate students:** To join our lab, please apply through directed studies or co-op program. Feel free to reach out to discuss potential research projects.
+**Undergraduate students:** To join our lab, undergraduate students can apply through directed studies or the co-op program. Don't hesitate to contact us to discuss potential research projects.
 
-**Graduate students:** We welcome highly motivated graduate students interested in computational research to join our lab through the University of British Columbia [Bioinformatics](https://www.bioinformatics.ubc.ca/apply/), [Genome Science and Technology](https://www.gsat.ubc.ca/admission/) or [Medical Genetic](https://medgen.med.ubc.ca/graduate-program/prospective-students/) program. Feel free to contact Adi through the ["Supervisor Enquiry" form](https://www.grad.ubc.ca/researcher/20992-steif).
+**Graduate students:** Highly motivated graduate students with an interest in computational research are welcome to join our lab through the University of British Columbia's [Bioinformatics](https://www.bioinformatics.ubc.ca/apply/), [Genome Science and Technology](https://www.gsat.ubc.ca/admission/), or [Medical Genetic](https://medgen.med.ubc.ca/graduate-program/prospective-students/) program. Contact Adi through the ["Supervisor Enquiry"](https://www.grad.ubc.ca/researcher/20992-steif) form. 
 
-**Other positions:** For additional positions, please look out for job positings on Michael Smith Genome Sciences Centre [careers board](https://www.bcgsc.ca/careers) 
-
+**Other positions:** For additional job openings, please keep an eye on the Michael Smith Genome Sciences Centre [careers board](https://www.bcgsc.ca/careers) 
 
 
 {% endcapture %}
