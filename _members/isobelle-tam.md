@@ -2,7 +2,7 @@
 name: Isobelle Tam
 image: images/photo.jpg
 role: undergrad
-description: Co-Op Student
+description: Directed studies student
 aliases:
   - I. Tam
   - itam
