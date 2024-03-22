@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publication
 
+Our research is dedicated to develop computational tools for the analysis of genomic data, with a particular focus on advancing methodologies for both single cell sequencing and cancer development analysis.  You can check out our publications listed below, or find them listed on [Google Scholar](https://scholar.google.ca/citations?user=aCAx8r4AAAAJ&hl=en).
+
 {% include section.html %}
 
 ## Highlighted
