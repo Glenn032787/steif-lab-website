@@ -101,3 +101,25 @@ $wrap: 800px;
     height: $thumb-size;
   }
 }
+
+// Custom
+
+.citation-details {
+  color: var(--secondary);
+  font-weight: 700;
+  font-style: italic;
+}
+
+.citation-title {
+  font-weight: 700;
+  font-size: 22px;
+  text-decoration: none;
+  &:hover {
+    color: var(--secondary);
+  }
+}
+
+.citation-authors {
+  font-size: 16px;
+  color: #666;
+}

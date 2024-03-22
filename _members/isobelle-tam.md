@@ -6,6 +6,7 @@ description: Co-Op Student
 aliases:
   - I. Tam
   - itam
+status: active
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
