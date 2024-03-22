@@ -2,12 +2,10 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Join Us!
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
-
+# {% include icon.html icon="fa-regular fa-envelope" %}Join Us
 
 {% include section.html %}
 
