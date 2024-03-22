@@ -33,10 +33,324 @@
     text: Data Access
     link: https://zenodo.org/records/2363826
   tags:
-  - Single-cell
-  - Gene expression
-  - Cancer clones
   - Tool
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nmeth.4140
+  title: Scalable whole-genome single-cell library preparation without preamplification
+  authors:
+  - Hans Zahn
+  - Adi Steif
+  - Emma Laks
+  - Peter Eirew
+  - Michael VanInsberghe
+  - Sohrab P Shah
+  - Samuel Aparicio
+  - Carl L Hansen
+  publisher: Nature Methods
+  date: '2017-01-09'
+  link: https://doi.org/f9k6p5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmeth.4140/MediaObjects/41592_2017_Article_BFnmeth4140_Fig1_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2019.10.026
+  title: Clonal Decomposition and DNA Replication States Defined by Scaled Single-Cell
+    Genome Sequencing
+  authors:
+  - Emma Laks
+  - Andrew McPherson
+  - Hans Zahn
+  - Daniel Lai
+  - Adi Steif
+  - Jazmine Brimhall
+  - Justina Biele
+  - Beixi Wang
+  - Tehmina Masud
+  - Jerome Ting
+  - Diljot Grewal
+  - Cydney Nielsen
+  - Samantha Leung
+  - Viktoria Bojilova
+  - Maia Smith
+  - Oleg Golovko
+  - Steven Poon
+  - Peter Eirew
+  - Farhia Kabeer
+  - Teresa Ruiz de Algara
+  - So Ra Lee
+  - M. Jafar Taghiyar
+  - Curtis Huebner
+  - Jessica Ngo
+  - Tim Chan
+  - Spencer Vatrt-Watts
+  - Pascale Walters
+  - Nafis Abrar
+  - Sophia Chan
+  - Matt Wiens
+  - Lauren Martin
+  - R. Wilder Scott
+  - T. Michael Underhill
+  - Elizabeth Chavez
+  - Christian Steidl
+  - Daniel Da Costa
+  - Yussanne Ma
+  - Robin J.N. Coope
+  - Richard Corbett
+  - Stephen Pleasance
+  - Richard Moore
+  - Andrew J. Mungall
+  - Colin Mar
+  - Fergus Cafferty
+  - Karen Gelmon
+  - Stephen Chia
+  - Marco A. Marra
+  - Carl Hansen
+  - Sohrab P. Shah
+  - Samuel Aparicio
+  - Gregory J. Hannon
+  - Giorgia Battistoni
+  - Dario Bressan
+  - Ian Cannell
+  - Hannah Casbolt
+  - Cristina Jauset
+  - "Tatjana Kova\u010Devi\u0107"
+  - Claire Mulvey
+  - Fiona Nugent
+  - Marta Paez Ribes
+  - Isabella Pearsall
+  - Fatime Qosaj
+  - Kirsty Sawicka
+  - Sophia Wild
+  - Elena Williams
+  - Samuel Aparicio
+  - Emma Laks
+  - Yangguang Li
+  - "Ciara O\u2019Flanagan"
+  - Austin Smith
+  - Teresa Ruiz
+  - Shankar Balasubramanian
+  - Maximillian Lee
+  - Bernd Bodenmiller
+  - Marcel Burger
+  - Laura Kuett
+  - Sandra Tietscher
+  - Jonas Windager
+  - Edward Boyden
+  - Shahar Alon
+  - Yi Cui
+  - Amauche Emenari
+  - Dan Goodwin
+  - Emmanouil Karagiannis
+  - Anubhav Sinha
+  - Asmamaw T. Wassie
+  - Carlos Caldas
+  - Alejandra Bruna
+  - Maurizio Callari
+  - Wendy Greenwood
+  - Giulia Lerda
+  - Yaniv Lubling
+  - Alastair Marti
+  - Oscar Rueda
+  - Abigail Shea
+  - Owen Harris
+  - Robby Becker
+  - Flaminia Grimaldi
+  - Suvi Harris
+  - Sara Vogl
+  - Johanna A. Joyce
+  - Jean Hausser
+  - Spencer Watson
+  - Sorhab Shah
+  - Andrew McPherson
+  - "Ignacio V\xE1zquez-Garc\xEDa"
+  - "Simon Tavar\xE9"
+  - Khanh Dinh
+  - Eyal Fisher
+  - Russell Kunes
+  - Nicolas A. Walton
+  - "Mohammad Al Sa\u2019d"
+  - Nick Chornay
+  - Ali Dariush
+  - Eduardo Gonzales Solares
+  - Carlos Gonzalez-Fernandez
+  - Aybuke Kupcu Yoldas
+  - Neil Millar
+  - Xiaowei Zhuang
+  - Jean Fan
+  - Hsuan Lee
+  - Leonardo Sepulveda Duran
+  - Chenglong Xia
+  - Pu Zheng
+  publisher: Cell
+  date: '2019-11-01'
+  link: https://doi.org/ggd68r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.04.21.537845
+  title: A Human Breast Cell Atlas Mapping the Homeostatic Cellular Shifts in the
+    Adult Breast
+  authors:
+  - Austin D. Reed
+  - Sara Pensa
+  - Adi Steif
+  - Jack Stenning
+  - Daniel J. Kunz
+  - Peng He
+  - Alecia-Jane Twigger
+  - Katarzyna Kania
+  - Rachel Barrow-McGee
+  - Iain Goulding
+  - Jennifer J. Gomm
+  - Louise Jones
+  - John C. Marioni
+  - Walid T. Khaled
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-21'
+  link: https://doi.org/gsznc2
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/04/21/2023.04.21.537845.1/F1.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.14288/1.0365645
+  title: Tumour evolution at single-cell resolution
+  authors:
+  - Adi Steif
+  publisher: University of British Columbia
+  date: '2020-01-01'
+  link: https://doi.org/gtnsp5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/411058
+  title: 'Resource: Scalable whole genome sequencing of 40,000 single cells identifies
+    stochastic aneuploidies, genome replication states and clonal repertoires'
+  authors:
+  - Emma Laks
+  - Hans Zahn
+  - Daniel Lai
+  - Andrew McPherson
+  - Adi Steif
+  - Jazmine Brimhall
+  - Justina Biele
+  - Beixi Wang
+  - Tehmina Masud
+  - Diljot Grewal
+  - Cydney Nielsen
+  - Samantha Leung
+  - Viktoria Bojilova
+  - Maia Smith
+  - Oleg Golovko
+  - Steven Poon
+  - Peter Eirew
+  - Farhia Kabeer
+  - Teresa Ruiz de Algara
+  - So Ra Lee
+  - M. Jafar Taghiyar
+  - Curtis Huebner
+  - Jessica Ngo
+  - Tim Chan
+  - Spencer Vatrt-Watts
+  - Pascale Walters
+  - Nafis Abrar
+  - Sophia Chan
+  - Matt Wiens
+  - Lauren Martin
+  - R. Wilder Scott
+  - Michael T. Underhill
+  - Elizabeth Chavez
+  - Christian Steidl
+  - Daniel Da Costa
+  - Yusanne Ma
+  - Robin J. N. Coope
+  - Richard Corbett
+  - Stephen Pleasance
+  - Richard Moore
+  - Andy J. Mungall
+  - Marco A. Marra
+  - Carl Hansen
+  - Sohrab P. Shah
+  - Samuel Aparicio
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-09-07'
+  link: https://doi.org/gkwg7m
+  image: https://www.biorxiv.org/content/biorxiv/early/2018/09/13/411058/F1.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-017-1267-2
+  title: 'ReMixT: clone-specific genomic structure estimation in cancer'
+  authors:
+  - Andrew W. McPherson
+  - Andrew Roth
+  - Gavin Ha
+  - Cedric Chauve
+  - Adi Steif
+  - Camila P. E. de Souza
+  - Peter Eirew
+  - "Alexandre Bouchard-C\xF4t\xE9"
+  - Sam Aparicio
+  - S. Cenk Sahinalp
+  - Sohrab P. Shah
+  publisher: Genome Biology
+  date: '2017-07-27'
+  link: https://doi.org/gbrqgx
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-017-1267-2/MediaObjects/13059_2017_1267_Fig1_HTML.gif?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nmeth.4303
+  title: 'E-scape: interactive visualization of single-cell phylogenetics and cancer
+    evolution'
+  authors:
+  - Maia A Smith
+  - Cydney B Nielsen
+  - Fong Chun Chan
+  - Andrew McPherson
+  - Andrew Roth
+  - Hossein Farahani
+  - Daniel Machev
+  - Adi Steif
+  - Sohrab P Shah
+  publisher: Nature Methods
+  date: '2017-05-30'
+  link: https://doi.org/gtnsp6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-017-1169-3
+  title: 'ddClone: joint statistical inference of clonal populations from single cell
+    and bulk tumour sequencing data'
+  authors:
+  - Sohrab Salehi
+  - Adi Steif
+  - Andrew Roth
+  - Samuel Aparicio
+  - "Alexandre Bouchard-C\xF4t\xE9"
+  - Sohrab P. Shah
+  publisher: Genome Biology
+  date: '2017-03-01'
+  link: https://doi.org/gtmsdc
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-017-1169-3/MediaObjects/13059_2017_1169_Fig1_HTML.gif?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1520964113
+  title: Robust high-performance nanoliter-volume single-cell multiple displacement
+    amplification on planar substrates
+  authors:
+  - Kaston Leung
+  - Anders Klaus
+  - Bill K. Lin
+  - Emma Laks
+  - Justina Biele
+  - Daniel Lai
+  - Ali Bashashati
+  - Yi-Fei Huang
+  - Radhouane Aniba
+  - Michelle Moksa
+  - Adi Steif
+  - Anne-Marie Mes-Masson
+  - Martin Hirst
+  - Sohrab P. Shah
+  - Samuel Aparicio
+  - Carl L. Hansen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-07-13'
+  link: https://doi.org/f8wcx6
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nature13952
@@ -92,36 +406,29 @@
   publisher: Nature
   date: '2014-11-26'
   link: https://doi.org/gfz8vc
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature13952/MediaObjects/41586_2015_Article_BFnature13952_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/nmeth.4140
-  title: Scalable whole-genome single-cell library preparation without preamplification
+- id: doi:10.1093/nar/gkt319
+  title: Transient RNA structure features are evolutionarily conserved and can be
+    computationally predicted
   authors:
-  - Hans Zahn
+  - Jing Yun A. Zhu
   - Adi Steif
-  - Emma Laks
-  - Peter Eirew
-  - Michael VanInsberghe
-  - Sohrab P Shah
-  - Samuel Aparicio
-  - Carl L Hansen
-  publisher: Nature Methods
-  date: '2017-01-09'
-  link: https://doi.org/f9k6p5
+  - Jeff R. Proctor
+  - Irmtraud M. Meyer
+  publisher: Nucleic Acids Research
+  date: '2013-04-26'
+  link: https://doi.org/ghh6pc
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1186/s13059-017-1169-3
-  title: 'ddClone: joint statistical inference of clonal populations from single cell
-    and bulk tumour sequencing data'
+- id: doi:10.4161/rna.22746
+  title: The<i>hok</i>mRNA family
   authors:
-  - Sohrab Salehi
   - Adi Steif
-  - Andrew Roth
-  - Samuel Aparicio
-  - "Alexandre Bouchard-C\xF4t\xE9"
-  - Sohrab P. Shah
-  publisher: Genome Biology
-  date: '2017-03-01'
-  link: https://doi.org/gtmsdc
+  - Irmtraud M. Meyer
+  publisher: RNA Biology
+  date: '2012-12-01'
+  link: https://doi.org/gtnsp7
   plugin: sources.py
   file: sources.yaml
