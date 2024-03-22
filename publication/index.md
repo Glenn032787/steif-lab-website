@@ -12,6 +12,8 @@ nav:
 ## Highlighted
 
 {% include citation.html lookup="clonealign: statistical integration of independent single-cell RNA and DNA sequencing data from human cancers" style="rich" %}
+{% include citation.html lookup="Scalable whole-genome single-cell library preparation without preamplification" style="rich" %}
+{% include citation.html lookup="Dynamics of genomic clones in breast cancer patient xenografts at single-cell resolution" style="rich" %}
 
 {% include section.html %}
 

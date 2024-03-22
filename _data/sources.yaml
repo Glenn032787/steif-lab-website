@@ -8,11 +8,22 @@
       text: Data Access
       link: https://zenodo.org/records/2363826
   tags:
-    - Single-cell
-    - Gene expression
-    - Cancer clones
     - Tool
-- id: doi:10.1038/nature13952
 - id: doi:10.1038/nmeth.4140
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmeth.4140/MediaObjects/41592_2017_Article_BFnmeth4140_Fig1_HTML.jpg
+- id: doi:10.1016/j.cell.2019.10.026
+- id: doi:10.1101/2023.04.21.537845
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/04/21/2023.04.21.537845.1/F1.large.jpg
+- id: doi:10.14288/1.0365645
+- id: doi:10.1101/411058
+  image: https://www.biorxiv.org/content/biorxiv/early/2018/09/13/411058/F1.large.jpg
+- id: doi:10.1186/s13059-017-1267-2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-017-1267-2/MediaObjects/13059_2017_1267_Fig1_HTML.gif?as=webp
+- id: doi:10.1038/nmeth.4303
 - id: doi:10.1186/s13059-017-1169-3
-
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-017-1169-3/MediaObjects/13059_2017_1169_Fig1_HTML.gif?as=webp
+- id: doi:10.1073/pnas.1520964113
+- id: doi:10.1038/nature13952
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature13952/MediaObjects/41586_2015_Article_BFnature13952_Fig1_HTML.jpg
+- id: doi:10.1093/nar/gkt319
+- id: doi:10.4161/rna.22746
