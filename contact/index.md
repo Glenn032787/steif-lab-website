@@ -5,11 +5,14 @@ nav:
   tooltip: Join Us!
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Join Us
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 {% include section.html %}
 
 {% capture col1 %}
+## Location
+We are part of the BC Cancer in Vancouver Canada. The lab is located on the 8th floor of the [BC Cancer Research Center building](https://www.google.com/maps/place/BC+Cancer+Research+Centre/@49.2625745,-123.1193424,15z/data=!4m2!3m1!1s0x0:0x8120a7e52adbc3f2?sa=X&ved=1t:2428&hl=en&ictx=111). Card access is required for entry to lab spaces.
+
 ## Join Us
 We are a fully computational lab, if you are interested to join the lab, collaborate, or inquire, please do not hesitate to contact Adi. 
 
@@ -19,8 +22,7 @@ We are a fully computational lab, if you are interested to join the lab, collabo
 
 **Other positions:** For additional positions, please look out for job positings on Michael Smith Genome Sciences Centre [careers board](https://www.bcgsc.ca/careers) 
 
-## Location
-We are part of the BC Cancer in Vancouver Canada. The lab is located on the 8th floor of the [BC Cancer Research Center building](https://www.google.com/maps/place/BC+Cancer+Research+Centre/@49.2625745,-123.1193424,15z/data=!4m2!3m1!1s0x0:0x8120a7e52adbc3f2?sa=X&ved=1t:2428&hl=en&ictx=111). Card access is required for entry to lab spaces.
+
 
 {% endcapture %}
 
