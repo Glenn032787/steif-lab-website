@@ -18,7 +18,7 @@ We are a fully computational lab, if you are interested to join the lab, collabo
 
 **Undergraduate students:** To join our lab, please apply through directed studies or co-op program. Feel free to reach out to discuss potential research projects.
 
-**Graduate students:** We welcome highly motivated graduate students interested in computational research to join our lab through the University of British Columbia [Bioinformatics](https://www.bioinformatics.ubc.ca/apply/), [Genome Science and Technology](https://www.gsat.ubc.ca/admission/) or [Medical Genetic](https://medgen.med.ubc.ca/graduate-program/prospective-students/) program. Feel free to contact Adi to discuss through the ["Supervisor Enquiry" form](https://www.grad.ubc.ca/researcher/20992-steif).
+**Graduate students:** We welcome highly motivated graduate students interested in computational research to join our lab through the University of British Columbia [Bioinformatics](https://www.bioinformatics.ubc.ca/apply/), [Genome Science and Technology](https://www.gsat.ubc.ca/admission/) or [Medical Genetic](https://medgen.med.ubc.ca/graduate-program/prospective-students/) program. Feel free to contact Adi through the ["Supervisor Enquiry" form](https://www.grad.ubc.ca/researcher/20992-steif).
 
 **Other positions:** For additional positions, please look out for job positings on Michael Smith Genome Sciences Centre [careers board](https://www.bcgsc.ca/careers) 
 
