@@ -1,6 +1,6 @@
 ---
 name: David Lin
-image: images/photo.jpg
+image: images/people/david_lin.jpg
 role: undergrad
 description: Directed studies student
 aliases:
