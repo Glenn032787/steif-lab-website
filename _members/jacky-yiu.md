@@ -1,18 +1,13 @@
 ---
 name: Jacky Yiu
-image: images/photo.jpg
+image: images/people/jacky_yiu.jpg
 role: master
 description: Master's researcher
 aliases:
   - J. Yiu
   - jyiu
 status: active
+links:
+  github: Jacky-Yiu
+  linkedin: chunheiyiu
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
