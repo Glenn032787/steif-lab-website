@@ -1,22 +1,18 @@
 ---
 ---
 
-# Glenn032787's Website
-
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
+The Steif lab is a group of researchers working to develop and utilize computational tools for the analysis of high-dimensional single cell genomics data. With these tools, we aim to uncover insights in cancer development. Our group is based at the Genome Science Center in the BC Cancer Research Institute.
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop tools for analysis of single cell sequencing for cancer analysis including copy number calling, clonal population clustering and cell cycle calling. 
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,12 +30,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our open source tools and published work on single cell sequencing can be found here. 
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publication"
+  text="Browse our published work"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publication"
+  title="Our Publication"
   flip=true
   style="bare"
   text=text
@@ -59,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a multidisplinary team of molecular, biological and computational researchers. Click [here]({% link contact/index.md %}) if you are interested in joining our team!
 
 {%
   include button.html

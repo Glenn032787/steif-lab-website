@@ -45,3 +45,7 @@ Our lab primarily focuses on computational research. If you're interested in joi
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html %}
+
+We respectfully recognize that our workplace is located on the traditional, ancestral, and unceded territory of the Coast Salish peoples: xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and Səl̓ílwətaʔ/Selilwitulh (Tsleil-Waututh) Nations. We are privileged to occupy this territory as univited guests, and invite you to learn more about the indigenous peoples from this land.
