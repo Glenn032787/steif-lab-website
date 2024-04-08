@@ -14,7 +14,7 @@ nav:
 We are based at the [BC Cancer Research Center](https://www.google.com/maps/place/BC+Cancer+Research+Centre/@49.2625745,-123.1193424,15z/data=!4m2!3m1!1s0x0:0x8120a7e52adbc3f2?sa=X&ved=1t:2428&hl=en&ictx=111) in Vancouver, Canada. Our lab is situated on the 8th floor of the building, and access is restricted to those with card access.
 
 ## Join Us
-Our lab primarily focuses on computational research. If you're interested in joining, collaborating, or seeking further information, please feel free to reach out to Adi.
+Our lab primarily focuses on computational research. We are commited to diversity, equity and inclusion and welcome individuals from all backgrounds. If you're interested in joining, collaborating, or seeking further information, please feel free to reach out to Adi. 
 
 **Undergraduate students:** To join our lab, undergraduate students can apply through directed studies or the co-op program. Don't hesitate to contact us to discuss potential research projects.
 
