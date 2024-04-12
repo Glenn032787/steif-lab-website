@@ -11,7 +11,7 @@ Meet our diverse interdisplinary team of biological, computational and mathemati
 
 {% include section.html %}
 
-# **Dr. Adi Steif**, Professor
+# **Dr. Adi Steif**, Principal investigator
 {% capture info %}
 Dr. Adi Steif’s research is focused on developing and applying computational methods for high-throughput genomics, with a particular interest in characterizing disease mechanisms and evolution in the context of cancer. New measurement technologies are enabling large-scale genetic, transcriptomic and epigenetic profiling of tissues at the single cell level. 
   
