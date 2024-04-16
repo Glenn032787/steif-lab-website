@@ -1,6 +1,6 @@
 ---
 name: Glenn Chang
-image: images/photo.jpg
+image: images/people/glenn_chang.jpeg
 role: programmer
 group: Research Programmer
 links:

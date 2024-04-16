@@ -1,12 +1,6 @@
 ---
 ---
 
-{%
-  include figure.html
-  image="images/group/roof_04_2024.jpg"
-  caption="First lab photo (April 2024)"
-%}
-
 The Steif lab is a group of researchers working to develop and utilize computational tools for the analysis of high-dimensional single cell genomics data. With these tools, we aim to uncover insights in cancer development. Our group is based at the Genome Science Center in the BC Cancer Research Institute.
 
 ## Highlights
@@ -28,7 +22,7 @@ We develop tools for analysis of single cell sequencing for cancer analysis incl
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/coding.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +45,7 @@ Our open source tools and published work on single cell sequencing can be found 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tumor.jpeg"
   link="publication"
   title="Our Publication"
   flip=true
@@ -76,7 +70,7 @@ We are a multidisplinary team of molecular, biological and computational researc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group/roof_04_2024.jpg"
   link="team"
   title="Our Team"
   text=text
