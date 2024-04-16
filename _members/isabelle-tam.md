@@ -1,7 +1,7 @@
 ---
 name: Isabelle Tam
 image: images/people/isabelle_tam.jpg
-role: undergrad
+role: alumni
 description: Directed studies student
 aliases:
   - I. Tam
