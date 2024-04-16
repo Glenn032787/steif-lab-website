@@ -19,7 +19,7 @@ Our lab interest lies in development and utilization of novel single-cell sequen
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/DLP.jpg"
   link="research"
   title="Single Cell Sequencing"
   text=text
