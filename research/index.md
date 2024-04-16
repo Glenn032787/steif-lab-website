@@ -33,7 +33,7 @@ By dissecting tumor samples at the single-cell level, we aim to identify distinc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cancer_dev.png"
   link="research"
   title="Cancer development"
   text=text
