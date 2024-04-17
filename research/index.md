@@ -44,11 +44,11 @@ We gratefully acknowledge funding support from:
 
 {% capture content %}
 
-[![UBC Faculty of Medicine](/images/funding_logo/UBCMedicine.png)](https://www.med.ubc.ca/)
+[![](/images/funding_logo/UBCMedicine.png)](https://www.med.ubc.ca/)
 
-[![BC Cancer Foundation](/images/funding_logo/bccancer.png)](https://bccancerfoundation.com/)
+[![](/images/funding_logo/bccancer.png)](https://bccancerfoundation.com/)
 
-[![Genome British Columbia](/images/funding_logo/genomeBC.jpg)](https://www.genomebc.ca/)
+[![](/images/funding_logo/genomeBC.jpg)](https://www.genomebc.ca/)
 
 [![Canadian Institutes of Health Research](/images/funding_logo/Canadian_Institutes_of_Health_Research.png)](https://cihr-irsc.gc.ca/e/193.html)
 
