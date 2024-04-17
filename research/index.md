@@ -44,6 +44,11 @@ We gratefully acknowledge funding support from:
 
 {% capture content %}
 
+<img
+      src="/images/funding_logo/UBCMedicine.png}"
+      alt="UBC Medicine"
+      loading="lazy"
+>
 [![](/images/funding_logo/UBCMedicine.png)](https://www.med.ubc.ca/)
 
 [![](/images/funding_logo/bccancer.png)](https://bccancerfoundation.com/)
