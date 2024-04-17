@@ -42,6 +42,8 @@ By dissecting tumor samples at the single-cell level, we aim to identify distinc
 {% include section.html %}
 We gratefully acknowledge funding support from:
 
+{% capture content %}
+
 [![UBC Faculty of Medicine](/images/funding_logo/UBCMedicine.png)](https://www.med.ubc.ca/)
 
 [![BC Cancer Foundation](/images/funding_logo/bccancer.png)](https://bccancerfoundation.com/)
@@ -55,3 +57,6 @@ We gratefully acknowledge funding support from:
 [![Michael Smith Foundation for Health Research](/images/funding_logo/MichaelSmithHealthResearchBC.png)](https://healthresearchbc.ca/)
 
 [![Canada Foundation for Innovation](/images/funding_logo/CFI.png)](https://www.innovation.ca/)
+{% endcapture %}
+
+{% include grid.html content=content %}
