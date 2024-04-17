@@ -53,3 +53,5 @@ We gratefully acknowledge funding support from:
 [![Terry Fox Research Institute](/images/funding_logo/terry_fox.png)](https://www.tfri.ca/)
 
 [![Michael Smith Foundation for Health Research](/images/funding_logo/MichaelSmithHealthResearchBC.png)](https://healthresearchbc.ca/)
+
+[![Canada Foundation for Innovation](/images/funding_logo/CFI.png)](https://www.innovation.ca/)
