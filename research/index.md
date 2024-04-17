@@ -44,19 +44,13 @@ We gratefully acknowledge funding support from:
 
 {% capture content %}
 
-<img src="../images/funding_logo/UBCMedicine.png" />
-
-[![](/images/funding_logo/bccancer.png)](https://bccancerfoundation.com/)
-
-[![](/images/funding_logo/genomeBC.jpg)](https://www.genomebc.ca/)
-
-[![Canadian Institutes of Health Research](/images/funding_logo/Canadian_Institutes_of_Health_Research.png)](https://cihr-irsc.gc.ca/e/193.html)
-
-[![Terry Fox Research Institute](/images/funding_logo/terry_fox.png)](https://www.tfri.ca/)
-
-[![Michael Smith Foundation for Health Research](/images/funding_logo/MichaelSmithHealthResearchBC.png)](https://healthresearchbc.ca/)
-
-[![Canada Foundation for Innovation](/images/funding_logo/CFI.png)](https://www.innovation.ca/)
+<img src="../images/funding_logo/UBCMedicine.png" alt="UBC Medicine"/>
+<img src="../images/funding_logo/bccancer.png" alt="BC Cancer"/>
+<img src="../images/funding_logo/genomeBC.jpg" alt="Genome BC"/>
+<img src="../images/funding_logo/Canadian_Institutes_of_Health_Research.png" alt="Canadian Institutes of Health Research"/>
+<img src="../images/funding_logo/terry_fox.png" alt="Terry Fox Research Institute"/>
+<img src="../images/funding_logo/MichaelSmithHealthResearchBC.png" alt="Michael Smith Foundation for Health Research"/>
+<img src="../images/funding_logo/CFI.png" alt="Canada Foundation for Innovation"/>
 
 {% endcapture %}
 
