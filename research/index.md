@@ -42,12 +42,38 @@ By dissecting tumor samples at the single-cell level, we aim to identify distinc
 {% include section.html %}
 We gratefully acknowledge funding support from:
 
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <img src="../images/funding_logo/UBCMedicine.png" alt="UBC Medicine" width="80%" />
+    </div>
+    <div>
+        <img src="../images/funding_logo/bccancer.png" alt="BC Cancer" width="80%" />
+    </div>
+</div>
 
-<img src="../images/funding_logo/UBCMedicine.png" alt="UBC Medicine" width="40%" /> <img src="../images/funding_logo/bccancer.png" alt="BC Cancer" width="40%" /> 
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <img src="../images/funding_logo/genomeBC.jpg" alt="Genome BC" width="100%" />
+    </div>
+    <div>
+        <img src="../images/funding_logo/CFI.png" alt="Canada Foundation for Innovation" width="100%" />
+    </div>
+    
+</div>
 
-<img src="../images/funding_logo/genomeBC.jpg" alt="Genome BC" width="40%" /> <img src="../images/funding_logo/Canadian_Institutes_of_Health_Research.png" alt="Canadian Institutes of Health Research" width="40%" />\
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <img src="../images/funding_logo/MichaelSmithHealthResearchBC.png" alt="Michael Smith Foundation for Health Research" width="40%" />
+    </div>
+    <div>
+        <img src="../images/funding_logo/terry_fox.png" alt="Terry Fox Research Institute" width="100%" />
+    </div>
+</div>
 
-<img src="../images/funding_logo/terry_fox.png" alt="Terry Fox Research Institute" width="40%" /><img src="../images/funding_logo/MichaelSmithHealthResearchBC.png" alt="Michael Smith Foundation for Health Research" width="40%" />
+<div>
+        <img src="../images/funding_logo/Canadian_Institutes_of_Health_Research.png" alt="Canadian Institutes of Health Research" width="40%" />
+  </div>
 
-<img src="../images/funding_logo/CFI.png" alt="Canada Foundation for Innovation" width="40%" />
+
+
 
