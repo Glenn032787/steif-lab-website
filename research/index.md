@@ -42,21 +42,4 @@ By dissecting tumor samples at the single-cell level, we aim to identify distinc
 {% include section.html %}
 We gratefully acknowledge funding support from:
 
-{% capture content %}
-
-[![UBC Faculty of Medicine](/images/funding_logo/UBCMedicine.png)](https://www.med.ubc.ca/)
-
-[![BC Cancer Foundation](/images/funding_logo/bccancer.png)](https://bccancerfoundation.com/)
-
-[![Genome British Columbia](/images/funding_logo/genomeBC.jpg)](https://www.genomebc.ca/)
-
-[![Canadian Institutes of Health Research](/images/funding_logo/Canadian_Institutes_of_Health_Research.png)](https://cihr-irsc.gc.ca/e/193.html)
-
-[![Terry Fox Research Institute](/images/funding_logo/terry_fox.png)](https://www.tfri.ca/)
-
-[![Michael Smith Foundation for Health Research](/images/funding_logo/MichaelSmithHealthResearchBC.png)](https://healthresearchbc.ca/)
-
-[![Canada Foundation for Innovation](/images/funding_logo/CFI.png)](https://www.innovation.ca/)
-{% endcapture %}
-
-{% include grid.html content=content %}
+<img src="../images/funding_logo.png" alt="funding_logo" width="80%" />
