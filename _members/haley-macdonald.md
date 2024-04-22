@@ -1,6 +1,6 @@
 ---
 name: Haley MacDonald
-image: images/haley_macdonald.jpeg
+image: images/people/haley_macdonald.jpeg
 description: Master's researcher
 role: master
 links:
