@@ -1,8 +1,8 @@
 ---
 name: Leon Li
 image: images/people/leon_li.jpg
-role: undergrad
-description: Summer Co-op student
+role: alumni
+description: Former Summer MRPM student
 aliases:
   - L. Li
   - lli
